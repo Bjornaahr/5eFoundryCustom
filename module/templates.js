@@ -7,18 +7,18 @@ export const preloadHandlebarsTemplates = async function() {
   return loadTemplates([
 
     // Shared Partials
-    "systems/dnd5e/templates/actors/parts/active-effects.html",
+    "systems/dogd5e/templates/actors/parts/active-effects.html",
 
     // Actor Sheet Partials
-    "systems/dnd5e/templates/actors/parts/actor-traits.html",
-    "systems/dnd5e/templates/actors/parts/actor-inventory.html",
-    "systems/dnd5e/templates/actors/parts/actor-features.html",
-    "systems/dnd5e/templates/actors/parts/actor-spellbook.html",
+    "systems/dogd5e/templates/actors/parts/actor-traits.html",
+    "systems/dogd5e/templates/actors/parts/actor-inventory.html",
+    "systems/dogd5e/templates/actors/parts/actor-features.html",
+    "systems/dogd5e/templates/actors/parts/actor-spellbook.html",
 
     // Item Sheet Partials
-    "systems/dnd5e/templates/items/parts/item-action.html",
-    "systems/dnd5e/templates/items/parts/item-activation.html",
-    "systems/dnd5e/templates/items/parts/item-description.html",
-    "systems/dnd5e/templates/items/parts/item-mountable.html"
+    "systems/dogd5e/templates/items/parts/item-action.html",
+    "systems/dogd5e/templates/items/parts/item-activation.html",
+    "systems/dogd5e/templates/items/parts/item-description.html",
+    "systems/dogd5e/templates/items/parts/item-mountable.html"
   ]);
 };
