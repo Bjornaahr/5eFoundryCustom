@@ -93,7 +93,7 @@
   "secondaryTokenAttribute": null,
   "minimumCoreVersion": "0.8.2",
   "compatibleCoreVersion": "0.8.8",
-  "url": "https://gitlab.com/foundrynet/dnd5e",
+  "url": "https://github.com/Bjornaahr/5eFoundryCustom",
   "manifest": "https://raw.githubusercontent.com/Bjornaahr/5eFoundryCustom/master/template.json",
   "download": "https://github.com/Bjornaahr/5eFoundryCustom/releases/download/re/dogd.zip"
 }
